@@ -2,7 +2,7 @@
 <dataIndex battleScribeVersion="2.00" name="Rogue Stars" indexUrl="https://github.com/playnwin/RogueStarsBattlescribe/" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
-    <dataIndexEntry filePath="Rogue_Stars.gstz" dataType="gamesystem" dataId="a7eb-ced3-f20a-d3a4" dataName="Rogue Stars" dataBattleScribeVersion="2.00" dataRevision="2"/>
+    <dataIndexEntry filePath="Rogue_Stars.gstz" dataType="gamesystem" dataId="a7eb-ced3-f20a-d3a4" dataName="Rogue Stars" dataBattleScribeVersion="2.00" dataRevision="3"/>
     <dataIndexEntry filePath="Space_Cops.catz" dataType="catalogue" dataId="73ba-3f4a-12ed-decd" dataName="Space Cops" dataBattleScribeVersion="2.00" dataRevision="1"/>
   </dataIndexEntries>
 </dataIndex>
